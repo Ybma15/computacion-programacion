@@ -1,0 +1,24 @@
+header{
+    background: #972929;
+
+}
+
+nav li{
+    display: inline;
+    text-transform: uppercase;
+    font-weight: solid;
+    font-size: 30px;
+    padding: 140px;
+}
+
+h2{
+    text-align: center;
+}
+
+.fotos{
+    width: 50%;
+    border-radius: 20%;
+    border: 10px solid rgb(51, 28, 28);
+    margin-left: 300px;
+}
+
